@@ -3,23 +3,29 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student
-- 🛡️ Cyber Security Enthusiast
-- 💻 Passionate about Networking, Linux, and Bug Bounty
+- 🛡️ Cyber Security Student
+- 💻 Passionate about Bug Bounty, penetration testing, and red teaming
 
 ## 🛠️ Tech Stack
-- 🔹 Programming: C#
-- 🖥️ OS: Linux (Kali), Windows
+### 🔹 Programming
+- C#
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+### 🖥️ OS
+- Linux (Kali)
+- Windows
+### 📡 Networking Fundamentals 
 
 ## 📚 What I'm Learning
-- ⌨️ Programming Fundamentals
-- 📡 Networking Fundamentals
-- 🐧 Linux Basics & Shell Scripting
-- 🌐 Web Security Fundamentals
-- 🛡️ Cyber Security & Bug Bounty
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-sami0&layout=compact&theme=radical)
+- Cyber Security & Bug Bounty
+- OWASP top ten
+- penetration testing student course
+- Programming 
+- Networking 
+- Web Security
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudsamy007)
