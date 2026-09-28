@@ -1,19 +1,7 @@
 # Mahmoud Samy
-- Offensive Security Enthusiast
-- Computer Science Student
-- Cyber Security Student
-- Passionate about Bug Bounty, penetration testing, and red teaming
 
-### Programming Skills
-#### Scripting
-Python | Bash
-#### Web Development
-HTML | CSS | JavaScript | PHP
-### OS
-Linux | Windows
-### Networking
+Learn web & mobile security and penetration testing, with a focus on **practicing**.
 
-
+I'd love to connect with you on [LinkedIn](https://www.linkedin.com/in/mahmoudsamy007) 🥰
 
 ---
-[LinkedIn](https://www.linkedin.com/in/mahmoudsamy007)
